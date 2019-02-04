@@ -1,0 +1,7 @@
+C:\Users\armin\Desktop\coding\ALDA\Gueterzug\bin\Debug\Gueterzug.exe.config
+C:\Users\armin\Desktop\coding\ALDA\Gueterzug\bin\Debug\Gueterzug.exe
+C:\Users\armin\Desktop\coding\ALDA\Gueterzug\bin\Debug\Gueterzug.pdb
+C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.csprojAssemblyReference.cache
+C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.csproj.CoreCompileInputs.cache
+C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.exe
+C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.pdb

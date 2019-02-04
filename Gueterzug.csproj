@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D0BB7227-7F4D-4C31-A53F-D5DE792D30D4}</ProjectGuid>
+    <ProjectGuid>{4DE29FFD-6849-4FF3-9A39-ACD4D396F819}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ThomasTheTrain</RootNamespace>
-    <AssemblyName>ThomasTheTrain</AssemblyName>
+    <RootNamespace>Gueterzug</RootNamespace>
+    <AssemblyName>Gueterzug</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
