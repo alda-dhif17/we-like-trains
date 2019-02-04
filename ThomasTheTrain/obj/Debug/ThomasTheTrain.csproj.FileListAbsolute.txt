@@ -1,0 +1,7 @@
+D:\code\C#\projects\ThomasTheTrain\ThomasTheTrain\bin\Debug\ThomasTheTrain.exe.config
+D:\code\C#\projects\ThomasTheTrain\ThomasTheTrain\bin\Debug\ThomasTheTrain.exe
+D:\code\C#\projects\ThomasTheTrain\ThomasTheTrain\bin\Debug\ThomasTheTrain.pdb
+D:\code\C#\projects\ThomasTheTrain\ThomasTheTrain\obj\Debug\ThomasTheTrain.csprojAssemblyReference.cache
+D:\code\C#\projects\ThomasTheTrain\ThomasTheTrain\obj\Debug\ThomasTheTrain.csproj.CoreCompileInputs.cache
+D:\code\C#\projects\ThomasTheTrain\ThomasTheTrain\obj\Debug\ThomasTheTrain.exe
+D:\code\C#\projects\ThomasTheTrain\ThomasTheTrain\obj\Debug\ThomasTheTrain.pdb
