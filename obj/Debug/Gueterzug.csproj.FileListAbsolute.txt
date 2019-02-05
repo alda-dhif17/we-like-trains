@@ -5,3 +5,10 @@ C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.csprojAssemblyR
 C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.csproj.CoreCompileInputs.cache
 C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.exe
 C:\Users\armin\Desktop\coding\ALDA\Gueterzug\obj\Debug\Gueterzug.pdb
+C:\Users\armin\Desktop\coding\ALDA\we-like-trains\bin\Debug\Gueterzug.exe.config
+C:\Users\armin\Desktop\coding\ALDA\we-like-trains\bin\Debug\Gueterzug.exe
+C:\Users\armin\Desktop\coding\ALDA\we-like-trains\bin\Debug\Gueterzug.pdb
+C:\Users\armin\Desktop\coding\ALDA\we-like-trains\obj\Debug\Gueterzug.csprojAssemblyReference.cache
+C:\Users\armin\Desktop\coding\ALDA\we-like-trains\obj\Debug\Gueterzug.csproj.CoreCompileInputs.cache
+C:\Users\armin\Desktop\coding\ALDA\we-like-trains\obj\Debug\Gueterzug.exe
+C:\Users\armin\Desktop\coding\ALDA\we-like-trains\obj\Debug\Gueterzug.pdb
